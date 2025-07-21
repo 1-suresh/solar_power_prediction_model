@@ -6,7 +6,9 @@ and regression modeling techniques to understand and forecast solar power trends
 Copy
 Edit
 solar_power_prediction_model/
+
 ├── solar_power_prediction_model.ipynb
+
 └── README.md
 
 **🚀 Features**
@@ -28,7 +30,7 @@ The model takes solar energy generation data and predicts output power generatio
 and R² score are used to validate performance.
 
 **🏁 Getting Started**
-Clone the repository:  git clone https://github.com/your-username/solar_power_prediction_model.git
+Clone the repository:  git clone https://github.com/1-suresh/solar_power_prediction_model.git
                        cd solar_power_prediction_model
 
 Install dependencies:  pip install -r requirements.txt

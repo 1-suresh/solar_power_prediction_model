@@ -34,7 +34,8 @@ Clone the repository:  git clone https://github.com/1-suresh/solar_power_predict
                        cd solar_power_prediction_model
 
 Install dependencies:  pip install -r requirements.txt
-Run the notebook:      Open solar_power_prediction_model.ipynb in Jupyter Notebook or VS Code and execute the cells.
+
+Run the notebook:Open solar_power_prediction_model.ipynb in Jupyter Notebook or VS Code and execute the cells.
 
 **📚 Skills Demonstrated**
 Data preprocessing and cleaning
